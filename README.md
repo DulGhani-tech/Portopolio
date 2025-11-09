@@ -1193,7 +1193,7 @@
    </div>
   </section><!-- Footer -->
   <footer>
-   <p>© 2025 Abdul Ghani | Designed with Canva</p>
+   <p>© 2025 Abdul Ghani | Designed with visual studio code</p>
   </footer>
   <script>
         const defaultConfig = {
